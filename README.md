@@ -1,3 +1,8 @@
+1) Basic shopping cart made using React JS, HTML, CSS
+2) Has features like adding and reducing quantity or deleting the product.
+3) Updates the total cost as well as the total quantity on the navbar.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
