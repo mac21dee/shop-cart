@@ -9,23 +9,23 @@ class Cart extends React.Component{
                 {
                     price : 9999,
                     title : 'Mobile Phone',
-                    qty : 1,
+                    qty : 7,
                     img : '',
                     id : 1
                 },
                 {
                     price : 999,
                     title : 'watch',
-                    qty : 1,
+                    qty : 5,
                     img : '',
                     id : 2
                 },
                 {
                     price : 99999,
                     title : 'Laptop',
-                    qty : 1,
+                    qty : 9,
                     img : '',
-                    id : 3
+                    id : 2
                 }
             ]
         }
